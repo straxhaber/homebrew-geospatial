@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is deprecated. All intended formulas were eventually merged into Homebrew's main repositories.
+
 # Geospatial Analysis Homebrew Tap
 
 This a [Homebrew tap] containing a collection of [Homebrew][] and [Homebrew Cask][] "formulae" that can be used for activities related to work with [geospatial data][geospatial wiki].
